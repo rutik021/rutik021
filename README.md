@@ -1,9 +1,8 @@
+
 <h1 align="center">Hi 👋, I'm Rutik Parmar</h1>
 <h3 align="center">A passionate software developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rutik021&label=Profile%20views&color=0e75b6&style=flat" alt="rutik021" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rutik021" alt="rutik021" /></a> </p>
 
 - 🧑‍🎓 I’m currently pursuing my BTech in Information and Communication technology at at **Marwadi University**
 
@@ -23,5 +22,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rutik021&show_icons=true&locale=en&layout=compact" alt="rutik021" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rutik021&show_icons=true&locale=en" alt="rutik021" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rutik021&" alt="rutik021" /></p>
