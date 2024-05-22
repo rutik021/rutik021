@@ -1,6 +1,6 @@
-<br>
-<img alt="Coder GIF" height=250 width=350 justify-content=centre src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
-<br>
+<div style="text-align: center;">
+  <img alt="Coder GIF" height="250" width="350" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+</div>
 
 <h1 align="center">Hi 👋, I'm Rutik Parmar</h1>
 <h3 align="center">A passionate software developer</h3>
