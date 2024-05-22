@@ -1,5 +1,10 @@
+<br>
+<img alt="Coder GIF" height=500 width=700 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+<br>
+
 <h1 align="center">Hi 👋, I'm Rutik Parmar</h1>
 <h3 align="center">A passionate software developer</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rutik021&label=Profile%20views&color=0e75b6&style=flat" alt="rutik021" /> </p>
 
